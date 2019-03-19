@@ -1,6 +1,6 @@
-__author__ = 'Helder C. R. de Oliveira'
+__author__ = 'Helder C. R. Oliveira'
 __email__ = 'heldercro@gmail.com'
-__url__ = 'http://helderc.net'
+__url__ = 'http://helderc.info'
 
 """
     This is an improved implementation of SSIM, based on version of:
